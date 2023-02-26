@@ -1,0 +1,9 @@
+{
+  "person": {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Wilson",
+    "age": 34,
+    "hasChildren": true
+  }
+}
